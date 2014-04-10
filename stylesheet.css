@@ -28,6 +28,7 @@ div{
 	display:inline-block;
 }
 #sagin{
+	clear:both;
 	margin:auto;
 	width:20%;
 	height:350px;
