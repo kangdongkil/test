@@ -1,9 +1,7 @@
 div{
 	border-radius:5px;	
 	}
-image{
-	margin:10px 10px 10px 10px;
-}
+
 #blue {
 	width:100%;
 	height:80px;
@@ -29,6 +27,9 @@ image{
 .both{
 	margin-top:10px;
 	margin-bottom:10px;
+	display:inline-block;
+}
+.1{
 	display:inline-block;
 }
 #sagin{
