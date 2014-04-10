@@ -25,7 +25,7 @@ div{
 	padding:5px;
 }
 .both{
-	margin:10px 10px 10px 10px;
+	margin-top:10px;
 	display:inline-block;
 }
 #sagin{
@@ -36,6 +36,7 @@ div{
 	background-color:#E8CB67;
 }
 #na{
+	margin-left:10%;
 	width:70%;
 	height:350px;
 	background-color:#FF8B42;
