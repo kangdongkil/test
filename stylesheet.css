@@ -37,7 +37,7 @@ div{
 	width:50%;
 	height:350px;
 	background-color:#FF8B42;
-
+        float:center;
 }
 #right{
 	width:20%;
