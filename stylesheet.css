@@ -35,8 +35,9 @@ div{
 	float:left;
 }
 #na{
-	margin:auto;
-	width:40%;
+	margin-right:-5%;
+	margin-left:-5%;
+	width:50%;
 	height:350px;
 	background-color:#FF8B42;
        
