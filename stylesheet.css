@@ -26,7 +26,8 @@ div{
 }
 .both{
 	margin-top:10px;
-	margin:auto;
+	margin-right:10px;
+	margin-left:10px;
 	clear:both;
 	display:inline-block;
 }
