@@ -27,7 +27,7 @@ div{
 .both{
 	clear:both;
 	margin-top:10px;
-	display:inline;
+	display:inline-block;
 }
 #sagin{
 	float:left;
