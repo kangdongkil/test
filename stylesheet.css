@@ -4,6 +4,10 @@
 	background-color:#E7FFB8;
 	border:1px solid blue;
 	border-radius:1px;
+	z-index:1;
+	font-family:sans-serif;
+	font-size:30px;
+	
 	
 }
 #sagin{
