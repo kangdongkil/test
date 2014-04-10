@@ -25,11 +25,12 @@ div{
 	padding:5px;
 }
 .both{
-	clear:both;
+	
 	margin-top:10px;
 	display:inline-block;
 }
 #sagin{
+	clear:both;
 	width:20%;
 	height:350px;
 	background-color:#E8CB67;
@@ -47,7 +48,7 @@ div{
 	width:20%;
 	height:350px;
 	background-color:#E8CB67;
- 	float:right;
+ 	
 }
 
 .both2{
