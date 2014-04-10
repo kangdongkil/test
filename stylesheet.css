@@ -27,20 +27,18 @@ div{
 .both{
 	position:relative;
 	clear:both;
-	margin-top:10px;
-	margin-bottom:10px;
 	display:inline-block;
 }
 #sagin{
 	float:left;
-	width:200px;
+	width:20%px;
 	height:350px;
 	background-color:#E8CB67;
 }
 #na{
 	margin-left:5%;
 	margin-right:5%;
-	width:500px;
+	width:50%;
 	height:350px;
 	background-color:#FF8B42;
 	margin-left: 5px;
@@ -49,7 +47,7 @@ div{
 }
 #right{ 
 	
-	width:200px;
+	width:20%;
 	height:350px;
 	background-color:#E8CB67;
 
