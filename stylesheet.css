@@ -43,11 +43,12 @@ div{
 	background-color:#FF8B42;
        
 }
-#right{
+#right{ 
+	
 	width:20%;
 	height:350px;
 	background-color:#E8CB67;
-	float:right;
+
  	
 }
 
