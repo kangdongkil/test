@@ -28,7 +28,7 @@ div{
 	display:inline-block;
 }*/
 #sagin{
-	width:350px;
+	width:10%;
 	height:350px;
 	background-color:#E8CB67;
 	float:left;
@@ -40,7 +40,7 @@ div{
         float:center;
 }
 #right{
-	width:150px;
+	width:20%;
 	height:350px;
 	background-color:#E8CB67;
 	float:right;
