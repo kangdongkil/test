@@ -25,13 +25,12 @@ div{
 	padding:5px;
 }
 .both{
-	position:relative;
 	clear:both;
 	display:inline-block;
 }
 #sagin{
 	float:left;
-	width:20%px;
+	width:20%;
 	height:350px;
 	background-color:#E8CB67;
 }
