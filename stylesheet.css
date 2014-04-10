@@ -28,18 +28,17 @@ div{
 	position:relative;
 	margin-top:10px;
 	margin-bottom:10px;
-	clear:both;
 	display:inline-block;
 }
 #sagin{
+	clear:both;
 	float:left;
 	width:20%;
 	height:350px;
 	background-color:#E8CB67;
 }
 #na{
-	margin-left:30px;
-	margin-right:30px;
+	margin-left:10%;
 	width:50%;
 	height:350px;
 	background-color:#FF8B42;
@@ -47,14 +46,7 @@ div{
 	padding-top: 5px;
        
 }
-#right{ 
-	
-	width:20%;
-	height:350px;
-	background-color:#E8CB67;
 
- 	
-}
 
 .both2{
 	text-align:center;
