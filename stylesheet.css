@@ -24,9 +24,9 @@ div{
 	float:right;
 	padding:5px;
 }
-/*.both{
+.both{
 	display:inline-block;
-}*/
+}
 #sagin{
 	width:10%;
 	height:350px;
@@ -37,7 +37,7 @@ div{
 	width:500px;
 	height:350px;
 	background-color:#FF8B42;
-        float:center;
+       
 }
 #right{
 	width:20%;
