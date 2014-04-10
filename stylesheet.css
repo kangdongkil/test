@@ -29,25 +29,25 @@ div{
 	display:inline-block;
 }
 #sagin{
-	margin:10px 30px 30px 10px;
+	margin:auto;
 	width:20%;
 	height:350px;
 	background-color:#E8CB67;
 	float:left;
 }
 #na{
-	margin:10px 30px 30px 10px;
+	margin:auto;
 	width:40%;
 	height:350px;
 	background-color:#FF8B42;
        
 }
 #right{
-	margin:10px 30px 30px 10px;
+	margin:auto;
 	width:20%;
 	height:350px;
 	background-color:#E8CB67;
-
+ 	float:right;
 }
 
 .both2{
