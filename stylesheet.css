@@ -25,7 +25,7 @@ div{
 	padding:5px;
 }
 .both{
-	
+	position:absolute;
 	clear:both;
 	margin-top:10px;
 	display:inline-block;
