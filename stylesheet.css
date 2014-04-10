@@ -25,25 +25,24 @@ div{
 	padding:5px;
 }
 .both{
+	margin-top:10px;
+	margin:auto;
 	clear:both;
 	display:inline-block;
 }
 #sagin{
-	margin-top:10px;
 	width:20%;
 	height:350px;
 	background-color:#E8CB67;
 	float:left;
 }
 #na{
-	margin-top:10px;
 	width:40%;
 	height:350px;
 	background-color:#FF8B42;
        
 }
 #right{
-	margin-top:10px;
 	width:20%;
 	height:350px;
 	background-color:#E8CB67;
