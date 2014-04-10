@@ -1,6 +1,6 @@
 $(document).ready(function(){
-	$('image').click(function(){
-		$('this').fadeOut('slow');
+	$('.1').click(function(){
+		$('.1').fadeOut('slow');
 	});	
 
 });
