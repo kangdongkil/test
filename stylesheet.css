@@ -36,8 +36,7 @@ div{
 	background-color:#E8CB67;
 }
 #na{
-	margin-right:5%;
-	margin-left:5%;
+	margin-left:30%;
 	width:50%;
 	height:350px;
 	background-color:#FF8B42;
@@ -47,7 +46,7 @@ div{
 	width:20%;
 	height:350px;
 	background-color:#E8CB67;
-	display:none;
+	float:right;
  	
 }
 
