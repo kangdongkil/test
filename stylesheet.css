@@ -38,7 +38,7 @@ div{
 	float:left;
 }
 #na{
-	width:60%;
+	width:40%;
 	height:350px;
 	background-color:#FF8B42;
        
@@ -47,8 +47,9 @@ div{
 	width:20%;
 	height:350px;
 	background-color:#E8CB67;
-	float:right;
+
 }
+
 .both2{
 	text-align:center;
 	font-size:15px;
