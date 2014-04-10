@@ -28,21 +28,21 @@ div{
 	display:inline-block;
 }
 #sagin{
-	margin:auto;
+	margin-top:10px;
 	width:350px;
 	height:350px;
 	background-color:#E8CB67;
 	float:left;
 }
 #na{
-	margin:auto;
+	margin-top:10px;
 	width:500px;
 	height:350px;
 	background-color:#FF8B42;
        
 }
 #right{
-	margin:auto;
+	margin-top:10px;
 	width:350px;
 	height:350px;
 	background-color:#E8CB67;
